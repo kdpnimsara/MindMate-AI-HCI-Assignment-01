@@ -1,0 +1,43 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='430' height='900' viewBox='0 0 430 900'>
+<rect width='430' height='900' fill='#F7F7F7'/>
+<rect x='12' y='10' width='406' height='880' rx='24' fill='#FFFFFF' stroke='#222222' stroke-width='3'/>
+<text x='34' y='43' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>9:41</text>
+<text x='350' y='43' font-family='Arial, sans-serif' font-size='10' font-weight='400' fill='#202020'>signal  wifi  battery</text>
+<line x1='24' y1='58' x2='406' y2='58' stroke='#AAAAAA' stroke-width='1'/>
+<text x='34' y='91' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>MindMate AI</text>
+<text x='396' text-anchor='end' y='91' font-family='Arial, sans-serif' font-size='11' font-weight='400' fill='#666666'>04 / 13</text>
+<line x1='24' y1='108' x2='406' y2='108' stroke='#DDDDDD' stroke-width='1'/>
+<text x='34' y='145' font-family='Arial, sans-serif' font-size='23' font-weight='700' fill='#202020'>Set up your study space</text>
+<text x='36' y='178' font-family='Arial, sans-serif' font-size='12' font-weight='400' fill='#555555'>Choose your subjects. You can edit these later.</text>
+<text x='38' y='215' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Add a subject</text>
+<rect x='36' y='225' width='358' height='46' rx='8' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='50' y='254' font-family='Arial, sans-serif' font-size='14' font-weight='400' fill='#777777'>e.g. Data Structures</text>
+<rect x='36' y='280' width='358' height='46' rx='10' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='215' text-anchor='middle' y='310' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>+ Add subject</text>
+<text x='38' y='375' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>Your subjects</text>
+<rect x='40' y='400' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<line x1='44' y1='409' x2='48' y2='414' stroke='#222222' stroke-width='2'/>
+<line x1='48' y1='414' x2='55' y2='404' stroke='#222222' stroke-width='2'/>
+<text x='67' y='414' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Data Structures</text>
+<rect x='40' y='438' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<line x1='44' y1='447' x2='48' y2='452' stroke='#222222' stroke-width='2'/>
+<line x1='48' y1='452' x2='55' y2='442' stroke='#222222' stroke-width='2'/>
+<text x='67' y='452' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Statistics</text>
+<rect x='40' y='476' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<text x='67' y='490' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Database Management</text>
+<rect x='40' y='514' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<line x1='44' y1='523' x2='48' y2='528' stroke='#222222' stroke-width='2'/>
+<line x1='48' y1='528' x2='55' y2='518' stroke='#222222' stroke-width='2'/>
+<text x='67' y='528' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Human Computer Interaction</text>
+<text x='38' y='580' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Preferred study session</text>
+<rect x='40' y='606' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<text x='67' y='620' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Morning</text>
+<rect x='205' y='606' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<line x1='209' y1='615' x2='213' y2='620' stroke='#222222' stroke-width='2'/>
+<line x1='213' y1='620' x2='220' y2='610' stroke='#222222' stroke-width='2'/>
+<text x='232' y='620' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Afternoon</text>
+<rect x='40' y='644' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<text x='67' y='658' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Evening</text>
+<rect x='36' y='710' width='358' height='48' rx='10' fill='#E8E8E8' stroke='#222222' stroke-width='2'/>
+<text x='215' text-anchor='middle' y='740' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>Save and continue</text>
+</svg>
