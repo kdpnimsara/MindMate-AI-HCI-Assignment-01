@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='430' height='900' viewBox='0 0 430 900'>
+<rect width='430' height='900' fill='#F7F7F7'/>
+<rect x='12' y='10' width='406' height='880' rx='24' fill='#FFFFFF' stroke='#222222' stroke-width='3'/>
+<text x='34' y='43' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>9:41</text>
+<text x='400' text-anchor='end' y='43' font-family='Arial, sans-serif' font-size='10' font-weight='400' fill='#202020'>signal  wifi  battery</text>
+<line x1='24' y1='58' x2='406' y2='58' stroke='#AAAAAA' stroke-width='1'/>
+<text x='34' y='91' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>MindMate AI</text>
+<text x='396' text-anchor='end' y='91' font-family='Arial, sans-serif' font-size='11' font-weight='400' fill='#666666'>01 / 13</text>
+<line x1='24' y1='108' x2='406' y2='108' stroke='#DDDDDD' stroke-width='1'/>
+<text x='34' y='145' font-family='Arial, sans-serif' font-size='23' font-weight='700' fill='#202020'>Your study life, made simpler</text>
+<text x='215' text-anchor='middle' y='220' font-family='Arial, sans-serif' font-size='22' font-weight='700' fill='#202020'> [ MindMate mark ] </text>
+<text x='215' text-anchor='middle' y='275' font-family='Arial, sans-serif' font-size='16' font-weight='400' fill='#202020'>Plan calmly. Learn confidently.</text>
+<text x='215' text-anchor='middle' y='305' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#555555'>A personal space for your study tasks,</text>
+<text x='215' text-anchor='middle' y='326' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#555555'>AI learning help and progress.</text>
+<rect x='36' y='500' width='358' height='48' rx='10' fill='#E8E8E8' stroke='#222222' stroke-width='2'/>
+<text x='215' text-anchor='middle' y='530' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>Create an account</text>
+<rect x='36' y='560' width='358' height='46' rx='10' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='215' text-anchor='middle' y='590' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>Sign in</text>
+<text x='215' text-anchor='middle' y='650' font-family='Arial, sans-serif' font-size='12' font-weight='400' fill='#555555'>You stay in control of your study plan.</text>
+</svg>

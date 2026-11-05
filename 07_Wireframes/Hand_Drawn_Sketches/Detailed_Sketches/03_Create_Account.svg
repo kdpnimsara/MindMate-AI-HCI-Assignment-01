@@ -1,0 +1,29 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='430' height='900' viewBox='0 0 430 900'>
+<rect width='430' height='900' fill='#F7F7F7'/>
+<rect x='12' y='10' width='406' height='880' rx='24' fill='#FFFFFF' stroke='#222222' stroke-width='3'/>
+<text x='34' y='43' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>9:41</text>
+<text x='350' y='43' font-family='Arial, sans-serif' font-size='10' font-weight='400' fill='#202020'>signal  wifi  battery</text>
+<line x1='24' y1='58' x2='406' y2='58' stroke='#AAAAAA' stroke-width='1'/>
+<text x='34' y='91' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>MindMate AI</text>
+<text x='396' text-anchor='end' y='91' font-family='Arial, sans-serif' font-size='11' font-weight='400' fill='#666666'>03 / 13</text>
+<line x1='24' y1='108' x2='406' y2='108' stroke='#DDDDDD' stroke-width='1'/>
+<text x='34' y='145' font-family='Arial, sans-serif' font-size='23' font-weight='700' fill='#202020'>Create your account</text>
+<text x='36' y='181' font-family='Arial, sans-serif' font-size='12' font-weight='400' fill='#555555'>Set up your account to keep your study work together.</text>
+<text x='38' y='220' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Full name</text>
+<rect x='36' y='230' width='358' height='46' rx='8' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='50' y='259' font-family='Arial, sans-serif' font-size='14' font-weight='400' fill='#777777'>Enter your name</text>
+<text x='38' y='310' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Email address</text>
+<rect x='36' y='320' width='358' height='46' rx='8' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='50' y='349' font-family='Arial, sans-serif' font-size='14' font-weight='400' fill='#777777'>name@example.com</text>
+<text x='38' y='400' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Password</text>
+<rect x='36' y='410' width='358' height='46' rx='8' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='50' y='439' font-family='Arial, sans-serif' font-size='14' font-weight='400' fill='#777777'>At least 8 characters</text>
+<text x='38' y='490' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Confirm password</text>
+<rect x='36' y='500' width='358' height='46' rx='8' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='50' y='529' font-family='Arial, sans-serif' font-size='14' font-weight='400' fill='#777777'>Re-enter password</text>
+<rect x='38' y='580' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<text x='65' y='594' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>I agree to the terms and privacy notice</text>
+<rect x='36' y='630' width='358' height='48' rx='10' fill='#E8E8E8' stroke='#222222' stroke-width='2'/>
+<text x='215' text-anchor='middle' y='660' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>Create account</text>
+<text x='215' text-anchor='middle' y='715' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>Already have an account?  Sign in</text>
+</svg>

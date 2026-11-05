@@ -1,0 +1,57 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='430' height='900' viewBox='0 0 430 900'>
+<rect width='430' height='900' fill='#F7F7F7'/>
+<rect x='12' y='10' width='406' height='880' rx='24' fill='#FFFFFF' stroke='#222222' stroke-width='3'/>
+<text x='34' y='43' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>9:41</text>
+<text x='350' y='43' font-family='Arial, sans-serif' font-size='10' font-weight='400' fill='#202020'>signal  wifi  battery</text>
+<line x1='24' y1='58' x2='406' y2='58' stroke='#AAAAAA' stroke-width='1'/>
+<text x='34' y='91' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>MindMate AI</text>
+<text x='396' text-anchor='end' y='91' font-family='Arial, sans-serif' font-size='11' font-weight='400' fill='#666666'>09 / 13</text>
+<line x1='24' y1='108' x2='406' y2='108' stroke='#DDDDDD' stroke-width='1'/>
+<text x='34' y='145' font-family='Arial, sans-serif' font-size='23' font-weight='700' fill='#202020'>Study task workspace</text>
+<rect x='36' y='175' width='358' height='98' rx='10' fill='#F0F0F0' stroke='#777777' stroke-width='1'/>
+<text x='52' y='205' font-family='Arial, sans-serif' font-size='11' font-weight='700' fill='#555555'>DATABASE MANAGEMENT</text>
+<text x='52' y='233' font-family='Arial, sans-serif' font-size='17' font-weight='700' fill='#202020'>Practice SQL joins</text>
+<text x='52' y='255' font-family='Arial, sans-serif' font-size='11' font-weight='400' fill='#555555'>Due Wed  |  Planned 30 minutes</text>
+<text x='36' y='315' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>Choose learning support</text>
+<rect x='36' y='340' width='358' height='74' rx='10' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='52' y='368' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>AI explanation or summary</text>
+<text x='52' y='392' font-family='Arial, sans-serif' font-size='12' font-weight='400' fill='#555555'>Ask about a topic in this task</text>
+<text x='370' text-anchor='end' y='379' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#333333'>Open</text>
+<rect x='36' y='430' width='358' height='74' rx='10' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='52' y='458' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>Short topic quiz</text>
+<text x='52' y='482' font-family='Arial, sans-serif' font-size='12' font-weight='400' fill='#555555'>Practise and review answers</text>
+<text x='370' text-anchor='end' y='469' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#333333'>Open</text>
+<rect x='36' y='520' width='358' height='74' rx='10' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='52' y='548' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>Related notes and resources</text>
+<text x='52' y='572' font-family='Arial, sans-serif' font-size='12' font-weight='400' fill='#555555'>Open a note, video or practical</text>
+<text x='370' text-anchor='end' y='559' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#333333'>Open</text>
+<text x='36' y='630' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Task status</text>
+<rect x='40' y='660' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<text x='67' y='674' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Not started</text>
+<rect x='40' y='695' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<line x1='44' y1='704' x2='48' y2='709' stroke='#222222' stroke-width='2'/>
+<line x1='48' y1='709' x2='55' y2='699' stroke='#222222' stroke-width='2'/>
+<text x='67' y='709' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>In progress</text>
+<rect x='215' y='695' width='18' height='18' rx='3' fill='#FFFFFF' stroke='#444444' stroke-width='1'/>
+<text x='242' y='709' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#202020'>Complete</text>
+<rect x='36' y='745' width='358' height='48' rx='10' fill='#E8E8E8' stroke='#222222' stroke-width='2'/>
+<text x='215' text-anchor='middle' y='775' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>Save task status</text>
+<line x1='24' y1='817' x2='406' y2='817' stroke='#777777' stroke-width='1'/>
+<rect x='43' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='55' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#555555'>Home</text>
+<rect x='133' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#111111' stroke-width='1'/>
+<text x='145' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#111111'>Planner</text>
+<rect x='233' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='245' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#555555'>AI Help</text>
+<rect x='333' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='345' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#555555'>Progress</text>
+<line x1='24' y1='817' x2='406' y2='817' stroke='#777777' stroke-width='1'/>
+<rect x='43' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='55' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#555555'>Home</text>
+<rect x='133' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#111111' stroke-width='1'/>
+<text x='145' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#111111'>Planner</text>
+<rect x='233' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='245' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#555555'>AI Help</text>
+<rect x='333' y='829' width='24' height='19' rx='4' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='345' text-anchor='middle' y='866' font-family='Arial, sans-serif' font-size='10' font-weight='700' fill='#555555'>Progress</text>
+</svg>

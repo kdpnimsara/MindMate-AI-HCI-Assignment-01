@@ -1,0 +1,25 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='430' height='900' viewBox='0 0 430 900'>
+<rect width='430' height='900' fill='#F7F7F7'/>
+<rect x='12' y='10' width='406' height='880' rx='24' fill='#FFFFFF' stroke='#222222' stroke-width='3'/>
+<text x='34' y='43' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>9:41</text>
+<text x='350' y='43' font-family='Arial, sans-serif' font-size='10' font-weight='400' fill='#202020'>signal  wifi  battery</text>
+<line x1='24' y1='58' x2='406' y2='58' stroke='#AAAAAA' stroke-width='1'/>
+<text x='34' y='91' font-family='Arial, sans-serif' font-size='15' font-weight='700' fill='#202020'>MindMate AI</text>
+<text x='396' text-anchor='end' y='91' font-family='Arial, sans-serif' font-size='11' font-weight='400' fill='#666666'>02 / 13</text>
+<line x1='24' y1='108' x2='406' y2='108' stroke='#DDDDDD' stroke-width='1'/>
+<text x='34' y='145' font-family='Arial, sans-serif' font-size='23' font-weight='700' fill='#202020'>Welcome back</text>
+<text x='36' y='181' font-family='Arial, sans-serif' font-size='13' font-weight='400' fill='#555555'>Sign in to continue your study plan.</text>
+<text x='38' y='235' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Email address</text>
+<rect x='36' y='245' width='358' height='46' rx='8' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='50' y='274' font-family='Arial, sans-serif' font-size='14' font-weight='400' fill='#777777'>name@example.com</text>
+<text x='38' y='325' font-family='Arial, sans-serif' font-size='14' font-weight='700' fill='#202020'>Password</text>
+<rect x='36' y='335' width='358' height='46' rx='8' fill='#FFFFFF' stroke='#777777' stroke-width='1'/>
+<text x='50' y='364' font-family='Arial, sans-serif' font-size='14' font-weight='400' fill='#777777'>Enter your password</text>
+<text x='394' text-anchor='end' y='418' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>Forgot password?</text>
+<rect x='36' y='465' width='358' height='48' rx='10' fill='#E8E8E8' stroke='#222222' stroke-width='2'/>
+<text x='215' text-anchor='middle' y='495' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>Sign in</text>
+<text x='215' text-anchor='middle' y='560' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#666666'>OR</text>
+<rect x='36' y='590' width='358' height='46' rx='10' fill='#FFFFFF' stroke='#555555' stroke-width='1'/>
+<text x='215' text-anchor='middle' y='620' font-family='Arial, sans-serif' font-size='16' font-weight='700' fill='#222222'>Continue with Google</text>
+<text x='215' text-anchor='middle' y='690' font-family='Arial, sans-serif' font-size='12' font-weight='700' fill='#202020'>New to MindMate AI?  Create account</text>
+</svg>
