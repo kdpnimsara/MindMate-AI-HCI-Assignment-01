@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "primary": {
+      "name": "MindMate Lavender",
+      "hex": "#8069D9",
+      "use": "Primary brand colour; links, active states, key accents"
+    },
+    "primary_hover": {
+      "name": "Deep Lavender",
+      "hex": "#6551B8",
+      "use": "Primary button fill and high-emphasis interactive elements"
+    },
+    "secondary": {
+      "name": "MindMate Mint",
+      "hex": "#68BDA3",
+      "use": "Positive accents, progress and supportive highlights"
+    },
+    "mint_ink": {
+      "name": "Deep Mint",
+      "hex": "#246B5B",
+      "use": "Text/icons on pale mint backgrounds"
+    },
+    "ink": {
+      "name": "Deep Ink",
+      "hex": "#252438",
+      "use": "Primary text on light surfaces"
+    },
+    "muted": {
+      "name": "Muted Text",
+      "hex": "#625F70",
+      "use": "Secondary text on light surfaces"
+    },
+    "light_bg": {
+      "name": "Soft White",
+      "hex": "#FAF8FF",
+      "use": "Light theme page background"
+    },
+    "light_surface": {
+      "name": "White Surface",
+      "hex": "#FFFFFF",
+      "use": "Cards, dialogs and input surfaces"
+    },
+    "pale_lavender": {
+      "name": "Pale Lavender",
+      "hex": "#EAE5FC",
+      "use": "Subtle tinted panels and selected backgrounds"
+    },
+    "pale_mint": {
+      "name": "Pale Mint",
+      "hex": "#E1F6EE",
+      "use": "Success and calm highlight backgrounds"
+    },
+    "dark_bg": {
+      "name": "Night Background",
+      "hex": "#171923",
+      "use": "Dark theme page background"
+    },
+    "dark_surface": {
+      "name": "Night Surface",
+      "hex": "#252936",
+      "use": "Dark theme cards and dialogs"
+    },
+    "dark_text": {
+      "name": "Soft White Text",
+      "hex": "#F5F3FA",
+      "use": "Primary text on dark surfaces"
+    },
+    "dark_muted": {
+      "name": "Muted Dark Text",
+      "hex": "#C3C0D0",
+      "use": "Secondary text on dark surfaces"
+    },
+    "dark_lavender": {
+      "name": "Dark Theme Lavender",
+      "hex": "#B9A9FF",
+      "use": "Links and active accents in dark theme"
+    },
+    "dark_mint": {
+      "name": "Dark Theme Mint",
+      "hex": "#8BD9BE",
+      "use": "Positive accents in dark theme"
+    }
+  },
+  "semantic": {
+    "success": "#246B5B",
+    "success_bg": "#E1F6EE",
+    "warning": "#805600",
+    "warning_bg": "#FFF3D6",
+    "error": "#B42336",
+    "error_bg": "#FDECEF",
+    "info": "#315E9E",
+    "info_bg": "#EAF2FF"
+  }
+}

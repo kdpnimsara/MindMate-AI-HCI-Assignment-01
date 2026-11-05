@@ -1,0 +1,38 @@
+:root {
+  /* MindMate AI — Light theme */
+  --mm-primary: #8069D9;
+  --mm-primary-action: #6551B8;
+  --mm-secondary: #68BDA3;
+  --mm-mint-ink: #246B5B;
+  --mm-bg: #FAF8FF;
+  --mm-surface: #FFFFFF;
+  --mm-text: #252438;
+  --mm-text-muted: #625F70;
+  --mm-border: #DDD9E8;
+  --mm-lavender-soft: #EAE5FC;
+  --mm-mint-soft: #E1F6EE;
+  --mm-radius-card: 20px;
+  --mm-radius-control: 12px;
+  --mm-radius-pill: 999px;
+  --mm-space-1: 4px;
+  --mm-space-2: 8px;
+  --mm-space-3: 12px;
+  --mm-space-4: 16px;
+  --mm-space-5: 24px;
+  --mm-space-6: 32px;
+  --mm-font-heading: "Plus Jakarta Sans", "Inter", sans-serif;
+  --mm-font-body: "Inter", Arial, sans-serif;
+}
+[data-theme="dark"] {
+  --mm-primary: #B9A9FF;
+  --mm-primary-action: #8069D9;
+  --mm-secondary: #8BD9BE;
+  --mm-mint-ink: #8BD9BE;
+  --mm-bg: #171923;
+  --mm-surface: #252936;
+  --mm-text: #F5F3FA;
+  --mm-text-muted: #C3C0D0;
+  --mm-border: #414657;
+  --mm-lavender-soft: #342E49;
+  --mm-mint-soft: #203B35;
+}
